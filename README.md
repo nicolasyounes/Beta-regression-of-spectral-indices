@@ -1,6 +1,8 @@
 # Beta-regression-of-spectral-indices
 Code to create linear and beta regression models of spectral indices from spectral data.
 
+[![DOI](https://zenodo.org/badge/124711075.svg)](https://zenodo.org/badge/latestdoi/124711075)
+
 ## References 
 Younes, N., Joyce, K., Northfield, T., Maier, S. (In Review). 'Should you stop using NDVI linear models to predict fractional vegetation cover? In short, yes.' Remote Sensing
 
