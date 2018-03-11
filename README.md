@@ -8,7 +8,10 @@ Younes, N., Joyce, K., Northfield, T., Maier, S. (In Review). 'Should you stop u
 There are no systems prerequisites to run this code. If you run R on your computer, you should be able to run this code.
 
 ### Data
-A sample of the data used can be found in the ‘XXXX.csv’ file.
+A sample of the data used can be found in the ‘Indices.csv’ file.
+
+### R code
+The basic code to make the linear and beta regression models can be found in the 'Linear and Beta regression models.R' file.
 
 ## Authors
 * **Nicolas Younes Cardenas** - James Cook University 
