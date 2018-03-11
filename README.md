@@ -11,7 +11,7 @@ There are no systems prerequisites to run this code. If you run R on your comput
 A sample of the data used can be found in the ‘XXXX.csv’ file.
 
 ## Authors
-*Nicolas Younes Cardenas - James Cook University 
+* **Nicolas Younes Cardenas** - James Cook University 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
